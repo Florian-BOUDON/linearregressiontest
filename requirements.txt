@@ -4,4 +4,4 @@ numpy==1.23.0
 gunicorn==20.1.0
 jinja2==3.0.0
 Werkzeug
-itsdangerous
+itsdangerous==2.0.1
